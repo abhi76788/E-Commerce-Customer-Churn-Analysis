@@ -1,0 +1,5 @@
+segment,total_customers,churned,avg_recency,avg_frequency,avg_monetary,avg_order_value,active,churn_rate_pct
+New,75,69,477.08,1.67,135.61,80.85,6,92.0
+Occasional,82,69,375.0,2.66,149.84,56.12,13,84.15
+Regular,76,47,228.21,5.91,677.62,114.36,29,61.84
+Premium,67,25,127.06,10.73,3117.66,289.67,42,37.31
