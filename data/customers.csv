@@ -1,0 +1,301 @@
+customer_id,name,email,signup_date,location,segment
+C0001,Betty Rodriguez,betty.rodriguez1@example.com,2021-01-13,Houston,Premium
+C0002,Betty Brown,betty.brown2@example.com,2021-03-13,Dallas,Regular
+C0003,Jessica Johnson,jessica.johnson3@example.com,2021-10-30,New York,Premium
+C0004,Linda Taylor,linda.taylor4@example.com,2021-04-22,San Jose,Premium
+C0005,Michael Moore,michael.moore5@example.com,2021-10-15,San Antonio,Premium
+C0006,Charles Rodriguez,charles.rodriguez6@example.com,2021-08-18,New York,Regular
+C0007,Jessica Hernandez,jessica.hernandez7@example.com,2021-12-24,Phoenix,Regular
+C0008,Matthew Hernandez,matthew.hernandez8@example.com,2021-04-21,Los Angeles,Regular
+C0009,Patricia Lopez,patricia.lopez9@example.com,2021-07-14,Philadelphia,Premium
+C0010,Betty Anderson,betty.anderson10@example.com,2021-01-23,Dallas,Occasional
+C0011,John Moore,john.moore11@example.com,2021-07-13,Phoenix,Premium
+C0012,Michael Williams,michael.williams12@example.com,2021-10-23,New York,Occasional
+C0013,John Davis,john.davis13@example.com,2021-05-29,Los Angeles,Regular
+C0014,Joseph Lopez,joseph.lopez14@example.com,2021-05-23,Chicago,New
+C0015,Michael Rodriguez,michael.rodriguez15@example.com,2021-07-01,Los Angeles,Occasional
+C0016,Betty Davis,betty.davis16@example.com,2021-10-01,Chicago,Regular
+C0017,William Moore,william.moore17@example.com,2021-07-14,Houston,New
+C0018,Linda Johnson,linda.johnson18@example.com,2021-01-29,Philadelphia,Occasional
+C0019,John Miller,john.miller19@example.com,2021-05-18,San Jose,New
+C0020,Christopher Thomas,christopher.thomas20@example.com,2021-04-19,San Antonio,Occasional
+C0021,William Jones,william.jones21@example.com,2021-03-15,Houston,New
+C0022,Jessica Jackson,jessica.jackson22@example.com,2021-10-27,San Antonio,Occasional
+C0023,Robert Taylor,robert.taylor23@example.com,2021-04-23,San Diego,Occasional
+C0024,Sandra Brown,sandra.brown24@example.com,2021-01-25,Chicago,Premium
+C0025,Jessica Martin,jessica.martin25@example.com,2021-12-15,Los Angeles,Regular
+C0026,Lisa Anderson,lisa.anderson26@example.com,2021-07-15,Dallas,New
+C0027,Sandra Smith,sandra.smith27@example.com,2021-10-11,Los Angeles,Occasional
+C0028,David Brown,david.brown28@example.com,2021-11-25,Phoenix,Occasional
+C0029,Joseph Smith,joseph.smith29@example.com,2021-03-22,Phoenix,New
+C0030,Ashley Brown,ashley.brown30@example.com,2021-09-17,Phoenix,Regular
+C0031,Susan Garcia,susan.garcia31@example.com,2021-03-20,Dallas,Regular
+C0032,David Thomas,david.thomas32@example.com,2021-11-03,New York,Premium
+C0033,Mark Martinez,mark.martinez33@example.com,2021-07-05,Houston,Premium
+C0034,Mark Jackson,mark.jackson34@example.com,2021-05-04,Los Angeles,Premium
+C0035,Anthony Williams,anthony.williams35@example.com,2021-09-06,Dallas,Premium
+C0036,Nancy Thomas,nancy.thomas36@example.com,2021-03-07,Dallas,Regular
+C0037,Thomas Martin,thomas.martin37@example.com,2021-05-16,San Antonio,Regular
+C0038,Matthew Miller,matthew.miller38@example.com,2021-10-04,Phoenix,Regular
+C0039,Christopher Lopez,christopher.lopez39@example.com,2021-12-10,San Diego,New
+C0040,Linda Davis,linda.davis40@example.com,2021-03-03,Los Angeles,New
+C0041,Charles Moore,charles.moore41@example.com,2021-01-11,Houston,Occasional
+C0042,John Johnson,john.johnson42@example.com,2021-01-04,Houston,Regular
+C0043,Sandra Hernandez,sandra.hernandez43@example.com,2021-01-17,Los Angeles,Premium
+C0044,Nancy Thomas,nancy.thomas44@example.com,2021-05-23,Houston,Regular
+C0045,Charles Thomas,charles.thomas45@example.com,2021-10-20,Houston,Regular
+C0046,Michael Brown,michael.brown46@example.com,2021-07-28,Los Angeles,New
+C0047,Jessica Wilson,jessica.wilson47@example.com,2021-07-01,San Diego,New
+C0048,Christopher Brown,christopher.brown48@example.com,2021-12-11,New York,Premium
+C0049,Margaret Brown,margaret.brown49@example.com,2021-06-23,Houston,New
+C0050,Karen Anderson,karen.anderson50@example.com,2021-04-08,Chicago,Regular
+C0051,William Anderson,william.anderson51@example.com,2021-04-04,Houston,New
+C0052,Margaret Moore,margaret.moore52@example.com,2021-08-15,Los Angeles,Premium
+C0053,Karen Smith,karen.smith53@example.com,2021-11-30,Los Angeles,Premium
+C0054,Jessica Thomas,jessica.thomas54@example.com,2021-03-27,San Diego,Regular
+C0055,Mark Johnson,mark.johnson55@example.com,2021-07-25,Chicago,Regular
+C0056,Richard Rodriguez,richard.rodriguez56@example.com,2021-01-02,San Diego,New
+C0057,Daniel Moore,daniel.moore57@example.com,2021-08-05,San Diego,Occasional
+C0058,Barbara Miller,barbara.miller58@example.com,2021-04-08,New York,Regular
+C0059,Mary Johnson,mary.johnson59@example.com,2021-06-10,San Jose,Premium
+C0060,Ashley Taylor,ashley.taylor60@example.com,2021-09-15,Chicago,New
+C0061,John Garcia,john.garcia61@example.com,2021-09-18,Los Angeles,Premium
+C0062,Sandra Davis,sandra.davis62@example.com,2021-12-12,San Antonio,Premium
+C0063,Linda Jackson,linda.jackson63@example.com,2021-10-19,San Jose,Premium
+C0064,John Wilson,john.wilson64@example.com,2021-11-14,San Jose,Premium
+C0065,Michael Hernandez,michael.hernandez65@example.com,2021-05-14,Houston,Occasional
+C0066,Robert Martinez,robert.martinez66@example.com,2021-07-22,San Diego,Occasional
+C0067,James Anderson,james.anderson67@example.com,2021-02-07,San Jose,Occasional
+C0068,Karen Miller,karen.miller68@example.com,2021-02-07,Dallas,Premium
+C0069,Ashley Lopez,ashley.lopez69@example.com,2021-03-09,Los Angeles,Occasional
+C0070,Barbara Garcia,barbara.garcia70@example.com,2021-07-09,San Diego,Regular
+C0071,Margaret Taylor,margaret.taylor71@example.com,2021-11-10,New York,Occasional
+C0072,Patricia Jones,patricia.jones72@example.com,2021-12-06,Phoenix,Occasional
+C0073,Betty Moore,betty.moore73@example.com,2021-02-24,Chicago,Premium
+C0074,Lisa Miller,lisa.miller74@example.com,2021-05-25,Philadelphia,Occasional
+C0075,Christopher Rodriguez,christopher.rodriguez75@example.com,2021-12-18,Dallas,Regular
+C0076,Mark Johnson,mark.johnson76@example.com,2021-05-09,Los Angeles,New
+C0077,Mary Smith,mary.smith77@example.com,2021-05-22,Philadelphia,New
+C0078,William Garcia,william.garcia78@example.com,2021-11-23,San Diego,Regular
+C0079,James Brown,james.brown79@example.com,2021-10-15,Los Angeles,New
+C0080,Mary Lopez,mary.lopez80@example.com,2021-10-07,San Jose,Regular
+C0081,Robert Johnson,robert.johnson81@example.com,2021-08-09,Phoenix,Regular
+C0082,Mark Lopez,mark.lopez82@example.com,2021-01-21,Houston,Occasional
+C0083,Patricia Lopez,patricia.lopez83@example.com,2021-12-08,Dallas,Regular
+C0084,Betty Jones,betty.jones84@example.com,2021-11-14,Houston,New
+C0085,Mark Wilson,mark.wilson85@example.com,2021-04-01,New York,Regular
+C0086,Margaret Wilson,margaret.wilson86@example.com,2021-06-20,Houston,Regular
+C0087,Margaret Brown,margaret.brown87@example.com,2021-03-23,San Antonio,Occasional
+C0088,Linda Miller,linda.miller88@example.com,2021-08-29,San Diego,Premium
+C0089,Anthony Davis,anthony.davis89@example.com,2021-06-06,Houston,Occasional
+C0090,Michael Gonzalez,michael.gonzalez90@example.com,2021-12-04,Philadelphia,Premium
+C0091,Matthew Rodriguez,matthew.rodriguez91@example.com,2021-02-05,Philadelphia,Occasional
+C0092,Anthony Moore,anthony.moore92@example.com,2021-12-14,Philadelphia,New
+C0093,Mark Rodriguez,mark.rodriguez93@example.com,2021-03-01,Chicago,Premium
+C0094,Patricia Martin,patricia.martin94@example.com,2021-01-20,San Antonio,Occasional
+C0095,Jessica Martin,jessica.martin95@example.com,2021-06-10,Dallas,Occasional
+C0096,Mark Jackson,mark.jackson96@example.com,2021-07-17,Houston,Premium
+C0097,Daniel Wilson,daniel.wilson97@example.com,2021-01-23,New York,Occasional
+C0098,Jessica Williams,jessica.williams98@example.com,2021-07-06,Philadelphia,Regular
+C0099,Sandra Brown,sandra.brown99@example.com,2021-12-06,Phoenix,Occasional
+C0100,Jessica Hernandez,jessica.hernandez100@example.com,2021-12-08,San Antonio,Occasional
+C0101,Robert Miller,robert.miller101@example.com,2021-10-11,San Antonio,Occasional
+C0102,Betty Garcia,betty.garcia102@example.com,2021-12-13,San Jose,New
+C0103,Karen Smith,karen.smith103@example.com,2021-07-27,Phoenix,Occasional
+C0104,Jessica Jackson,jessica.jackson104@example.com,2021-04-18,San Jose,Occasional
+C0105,Joseph Anderson,joseph.anderson105@example.com,2021-08-27,Houston,Occasional
+C0106,Nancy Williams,nancy.williams106@example.com,2021-03-28,Phoenix,New
+C0107,Anthony Davis,anthony.davis107@example.com,2021-02-17,Phoenix,Occasional
+C0108,Robert Smith,robert.smith108@example.com,2021-04-12,New York,Regular
+C0109,Lisa Williams,lisa.williams109@example.com,2021-09-01,San Diego,Regular
+C0110,Charles Miller,charles.miller110@example.com,2021-11-19,San Antonio,New
+C0111,Linda Jones,linda.jones111@example.com,2021-07-24,New York,New
+C0112,Linda Garcia,linda.garcia112@example.com,2021-08-06,Dallas,Premium
+C0113,Karen Davis,karen.davis113@example.com,2021-01-26,Los Angeles,New
+C0114,Margaret Anderson,margaret.anderson114@example.com,2021-03-10,Dallas,New
+C0115,Lisa Taylor,lisa.taylor115@example.com,2021-08-15,San Antonio,Occasional
+C0116,Betty Thomas,betty.thomas116@example.com,2021-03-23,San Diego,New
+C0117,Anthony Rodriguez,anthony.rodriguez117@example.com,2021-05-07,Dallas,Occasional
+C0118,Linda Rodriguez,linda.rodriguez118@example.com,2021-11-17,San Diego,New
+C0119,Barbara Davis,barbara.davis119@example.com,2022-01-01,Phoenix,Premium
+C0120,Mark Moore,mark.moore120@example.com,2021-06-13,Los Angeles,Occasional
+C0121,Linda Gonzalez,linda.gonzalez121@example.com,2021-03-19,Chicago,Regular
+C0122,Jessica Wilson,jessica.wilson122@example.com,2021-02-02,Philadelphia,Regular
+C0123,Mary Miller,mary.miller123@example.com,2021-08-01,San Antonio,New
+C0124,Daniel Smith,daniel.smith124@example.com,2021-10-27,San Jose,New
+C0125,James Lopez,james.lopez125@example.com,2021-09-02,Phoenix,New
+C0126,Karen Moore,karen.moore126@example.com,2021-08-03,San Jose,New
+C0127,Linda Rodriguez,linda.rodriguez127@example.com,2021-09-07,San Antonio,Regular
+C0128,Richard Hernandez,richard.hernandez128@example.com,2021-01-15,San Antonio,New
+C0129,Ashley Jones,ashley.jones129@example.com,2021-08-28,San Jose,Regular
+C0130,Charles Jackson,charles.jackson130@example.com,2021-07-21,New York,Premium
+C0131,Jessica Jones,jessica.jones131@example.com,2021-11-26,San Diego,Premium
+C0132,William Gonzalez,william.gonzalez132@example.com,2021-01-26,Philadelphia,Regular
+C0133,David Hernandez,david.hernandez133@example.com,2021-08-21,San Antonio,Regular
+C0134,William Williams,william.williams134@example.com,2021-08-04,San Diego,Occasional
+C0135,Mary Lopez,mary.lopez135@example.com,2021-10-04,Houston,Premium
+C0136,Mary Smith,mary.smith136@example.com,2021-11-30,Houston,Premium
+C0137,Lisa Jones,lisa.jones137@example.com,2021-01-11,Houston,Regular
+C0138,Nancy Brown,nancy.brown138@example.com,2021-08-31,San Jose,Regular
+C0139,Daniel Rodriguez,daniel.rodriguez139@example.com,2021-08-27,Philadelphia,Regular
+C0140,Lisa Brown,lisa.brown140@example.com,2021-11-07,Chicago,Regular
+C0141,Charles Smith,charles.smith141@example.com,2021-02-25,Phoenix,Occasional
+C0142,Daniel Miller,daniel.miller142@example.com,2021-07-23,Los Angeles,New
+C0143,Daniel Martinez,daniel.martinez143@example.com,2021-02-22,San Jose,Regular
+C0144,Margaret Johnson,margaret.johnson144@example.com,2021-10-17,Philadelphia,Premium
+C0145,Susan Williams,susan.williams145@example.com,2021-12-05,Dallas,New
+C0146,Sandra Wilson,sandra.wilson146@example.com,2021-01-07,San Diego,Occasional
+C0147,Susan Anderson,susan.anderson147@example.com,2021-08-10,Chicago,Premium
+C0148,Betty Taylor,betty.taylor148@example.com,2021-04-01,Phoenix,New
+C0149,Jessica Jackson,jessica.jackson149@example.com,2021-08-27,Phoenix,New
+C0150,Anthony Williams,anthony.williams150@example.com,2021-05-06,Phoenix,Occasional
+C0151,Matthew Anderson,matthew.anderson151@example.com,2021-05-05,San Jose,New
+C0152,James Thomas,james.thomas152@example.com,2021-06-22,Philadelphia,New
+C0153,Michael Lopez,michael.lopez153@example.com,2021-09-07,Phoenix,Regular
+C0154,Mark Martin,mark.martin154@example.com,2021-05-24,Phoenix,Occasional
+C0155,Michael Williams,michael.williams155@example.com,2021-09-22,Houston,Premium
+C0156,Karen Davis,karen.davis156@example.com,2021-09-08,San Diego,New
+C0157,Margaret Smith,margaret.smith157@example.com,2021-08-18,Los Angeles,New
+C0158,Richard Davis,richard.davis158@example.com,2021-04-24,Phoenix,Occasional
+C0159,Karen Taylor,karen.taylor159@example.com,2021-08-31,Philadelphia,Occasional
+C0160,David Lopez,david.lopez160@example.com,2021-10-09,San Diego,New
+C0161,William Davis,william.davis161@example.com,2021-06-06,Los Angeles,Occasional
+C0162,Patricia Moore,patricia.moore162@example.com,2021-06-11,Chicago,Regular
+C0163,Betty Thomas,betty.thomas163@example.com,2021-04-21,Phoenix,Regular
+C0164,Anthony Miller,anthony.miller164@example.com,2021-02-21,Phoenix,Occasional
+C0165,Jennifer Martinez,jennifer.martinez165@example.com,2021-07-04,New York,Regular
+C0166,Mary Johnson,mary.johnson166@example.com,2021-05-21,Dallas,Regular
+C0167,Robert Thomas,robert.thomas167@example.com,2021-12-24,Los Angeles,Occasional
+C0168,Barbara Thomas,barbara.thomas168@example.com,2021-10-21,San Diego,Premium
+C0169,Jennifer Johnson,jennifer.johnson169@example.com,2021-06-24,Phoenix,New
+C0170,Anthony Williams,anthony.williams170@example.com,2021-02-28,San Antonio,New
+C0171,Charles Johnson,charles.johnson171@example.com,2021-02-07,Chicago,New
+C0172,Barbara Williams,barbara.williams172@example.com,2021-10-16,Houston,Regular
+C0173,Matthew Wilson,matthew.wilson173@example.com,2021-10-13,San Jose,Premium
+C0174,Richard Anderson,richard.anderson174@example.com,2021-09-25,San Diego,Regular
+C0175,Jessica Martinez,jessica.martinez175@example.com,2021-10-29,San Jose,Occasional
+C0176,Betty Brown,betty.brown176@example.com,2021-11-09,Houston,Premium
+C0177,Nancy Williams,nancy.williams177@example.com,2021-05-16,Chicago,Regular
+C0178,Karen Williams,karen.williams178@example.com,2021-03-30,Chicago,Regular
+C0179,Joseph Martin,joseph.martin179@example.com,2021-07-29,San Diego,Premium
+C0180,Linda Martinez,linda.martinez180@example.com,2021-01-17,Phoenix,Occasional
+C0181,Nancy Davis,nancy.davis181@example.com,2021-02-06,Phoenix,New
+C0182,Patricia Moore,patricia.moore182@example.com,2021-08-06,Houston,Regular
+C0183,Anthony Jones,anthony.jones183@example.com,2021-05-17,Los Angeles,Regular
+C0184,Margaret Martinez,margaret.martinez184@example.com,2021-03-26,San Jose,Premium
+C0185,Patricia Anderson,patricia.anderson185@example.com,2021-08-13,Phoenix,Occasional
+C0186,Thomas Moore,thomas.moore186@example.com,2021-05-20,San Diego,New
+C0187,Lisa Johnson,lisa.johnson187@example.com,2021-02-11,San Antonio,New
+C0188,William Smith,william.smith188@example.com,2021-11-06,Los Angeles,Occasional
+C0189,Anthony Jackson,anthony.jackson189@example.com,2021-12-12,San Jose,Regular
+C0190,Anthony Rodriguez,anthony.rodriguez190@example.com,2021-12-11,San Jose,Premium
+C0191,Sarah Taylor,sarah.taylor191@example.com,2021-03-31,San Diego,Premium
+C0192,Charles Wilson,charles.wilson192@example.com,2021-04-03,San Diego,Occasional
+C0193,Susan Wilson,susan.wilson193@example.com,2021-08-29,Philadelphia,Premium
+C0194,Patricia Garcia,patricia.garcia194@example.com,2021-12-10,Philadelphia,Occasional
+C0195,Sarah Martinez,sarah.martinez195@example.com,2021-12-22,San Antonio,New
+C0196,John Hernandez,john.hernandez196@example.com,2021-08-21,Phoenix,Premium
+C0197,Matthew Gonzalez,matthew.gonzalez197@example.com,2021-03-01,Dallas,Occasional
+C0198,Sandra Moore,sandra.moore198@example.com,2021-12-03,San Diego,Premium
+C0199,Michael Taylor,michael.taylor199@example.com,2021-01-28,Philadelphia,New
+C0200,Joseph Johnson,joseph.johnson200@example.com,2021-11-17,Houston,New
+C0201,Robert Martinez,robert.martinez201@example.com,2021-10-09,San Diego,Occasional
+C0202,James Martin,james.martin202@example.com,2021-03-04,Houston,New
+C0203,Karen Smith,karen.smith203@example.com,2021-06-09,Dallas,Regular
+C0204,Linda Brown,linda.brown204@example.com,2021-02-17,San Diego,New
+C0205,Anthony Jones,anthony.jones205@example.com,2021-11-28,San Diego,Premium
+C0206,Daniel Rodriguez,daniel.rodriguez206@example.com,2021-09-18,San Antonio,Occasional
+C0207,Linda Anderson,linda.anderson207@example.com,2021-08-30,Dallas,New
+C0208,Michael Martin,michael.martin208@example.com,2021-07-16,Dallas,Regular
+C0209,William Wilson,william.wilson209@example.com,2021-02-05,Philadelphia,Regular
+C0210,Barbara Martinez,barbara.martinez210@example.com,2021-01-02,San Jose,Occasional
+C0211,Joseph Moore,joseph.moore211@example.com,2021-03-18,San Diego,New
+C0212,Karen Moore,karen.moore212@example.com,2021-06-20,San Antonio,Occasional
+C0213,Sandra Miller,sandra.miller213@example.com,2021-06-14,Houston,New
+C0214,Sandra Wilson,sandra.wilson214@example.com,2021-04-30,New York,New
+C0215,Daniel Gonzalez,daniel.gonzalez215@example.com,2021-08-31,San Antonio,Occasional
+C0216,Mary Jones,mary.jones216@example.com,2021-09-11,Dallas,Regular
+C0217,Sandra Anderson,sandra.anderson217@example.com,2021-02-21,Los Angeles,Occasional
+C0218,Betty Jones,betty.jones218@example.com,2021-01-08,San Antonio,New
+C0219,Sarah Rodriguez,sarah.rodriguez219@example.com,2021-02-08,Philadelphia,Regular
+C0220,John Hernandez,john.hernandez220@example.com,2021-11-29,Dallas,New
+C0221,Christopher Thomas,christopher.thomas221@example.com,2021-06-12,Dallas,New
+C0222,John Davis,john.davis222@example.com,2021-11-13,Phoenix,Premium
+C0223,Jessica Brown,jessica.brown223@example.com,2021-02-16,Los Angeles,Regular
+C0224,Daniel Martinez,daniel.martinez224@example.com,2021-03-27,New York,New
+C0225,Margaret Johnson,margaret.johnson225@example.com,2021-06-16,Phoenix,Premium
+C0226,Jessica Jones,jessica.jones226@example.com,2021-07-11,Houston,Occasional
+C0227,Nancy Garcia,nancy.garcia227@example.com,2021-10-17,Chicago,New
+C0228,Lisa Gonzalez,lisa.gonzalez228@example.com,2021-02-10,San Jose,Regular
+C0229,Ashley Jackson,ashley.jackson229@example.com,2021-09-12,Chicago,Regular
+C0230,Christopher Rodriguez,christopher.rodriguez230@example.com,2021-08-25,San Diego,Regular
+C0231,James Anderson,james.anderson231@example.com,2021-12-08,Phoenix,Occasional
+C0232,Joseph Lopez,joseph.lopez232@example.com,2021-02-07,San Jose,Regular
+C0233,Jessica Rodriguez,jessica.rodriguez233@example.com,2021-11-24,San Diego,Occasional
+C0234,Richard Thomas,richard.thomas234@example.com,2021-04-12,Los Angeles,Occasional
+C0235,Charles Lopez,charles.lopez235@example.com,2021-07-15,San Jose,Regular
+C0236,Barbara Smith,barbara.smith236@example.com,2021-12-25,San Antonio,Occasional
+C0237,Charles Johnson,charles.johnson237@example.com,2021-01-05,San Jose,Occasional
+C0238,Matthew Davis,matthew.davis238@example.com,2021-05-27,San Jose,New
+C0239,Christopher Miller,christopher.miller239@example.com,2021-04-23,San Jose,Occasional
+C0240,Matthew Jones,matthew.jones240@example.com,2021-12-14,Los Angeles,Occasional
+C0241,Margaret Anderson,margaret.anderson241@example.com,2021-06-08,New York,Premium
+C0242,John Martinez,john.martinez242@example.com,2021-03-09,Philadelphia,Occasional
+C0243,Michael Jones,michael.jones243@example.com,2021-03-31,Dallas,New
+C0244,Thomas Rodriguez,thomas.rodriguez244@example.com,2021-09-29,Chicago,Occasional
+C0245,Margaret Martinez,margaret.martinez245@example.com,2021-09-04,Philadelphia,Occasional
+C0246,John Jones,john.jones246@example.com,2021-08-28,Houston,Premium
+C0247,Susan Williams,susan.williams247@example.com,2021-10-13,San Antonio,New
+C0248,Karen Brown,karen.brown248@example.com,2021-05-16,San Diego,Premium
+C0249,Betty Rodriguez,betty.rodriguez249@example.com,2021-12-11,San Jose,Occasional
+C0250,Susan Brown,susan.brown250@example.com,2021-11-23,Houston,New
+C0251,Lisa Moore,lisa.moore251@example.com,2021-01-13,Philadelphia,New
+C0252,John Anderson,john.anderson252@example.com,2021-11-28,Phoenix,Regular
+C0253,Robert Johnson,robert.johnson253@example.com,2021-03-01,New York,New
+C0254,Patricia Brown,patricia.brown254@example.com,2021-09-10,Houston,Occasional
+C0255,Joseph Lopez,joseph.lopez255@example.com,2021-07-18,Dallas,Regular
+C0256,Betty Jones,betty.jones256@example.com,2021-10-28,San Antonio,New
+C0257,Lisa Wilson,lisa.wilson257@example.com,2021-09-08,Phoenix,Premium
+C0258,Susan Miller,susan.miller258@example.com,2021-12-20,San Diego,Premium
+C0259,Sandra Lopez,sandra.lopez259@example.com,2021-05-01,Los Angeles,New
+C0260,Mark Lopez,mark.lopez260@example.com,2021-10-06,New York,Occasional
+C0261,Michael Brown,michael.brown261@example.com,2021-05-22,San Diego,New
+C0262,Michael Martin,michael.martin262@example.com,2021-12-06,New York,Premium
+C0263,Linda Jones,linda.jones263@example.com,2021-06-20,San Jose,Premium
+C0264,Anthony Moore,anthony.moore264@example.com,2021-02-05,Houston,Regular
+C0265,David Jones,david.jones265@example.com,2021-04-30,San Jose,Regular
+C0266,Sandra Jones,sandra.jones266@example.com,2021-05-22,Chicago,Premium
+C0267,Patricia Smith,patricia.smith267@example.com,2021-03-31,Chicago,Occasional
+C0268,Margaret Davis,margaret.davis268@example.com,2021-07-03,San Jose,Premium
+C0269,Jennifer Rodriguez,jennifer.rodriguez269@example.com,2021-01-09,New York,Occasional
+C0270,Thomas Brown,thomas.brown270@example.com,2021-08-04,Los Angeles,Regular
+C0271,Matthew Lopez,matthew.lopez271@example.com,2021-08-18,Dallas,New
+C0272,Thomas Davis,thomas.davis272@example.com,2021-08-20,San Jose,Premium
+C0273,Thomas Martinez,thomas.martinez273@example.com,2021-12-04,San Diego,Premium
+C0274,Sarah Gonzalez,sarah.gonzalez274@example.com,2021-02-01,San Antonio,Premium
+C0275,Daniel Anderson,daniel.anderson275@example.com,2021-09-09,Los Angeles,Premium
+C0276,Lisa Jones,lisa.jones276@example.com,2021-06-14,Los Angeles,Premium
+C0277,Lisa Jackson,lisa.jackson277@example.com,2021-05-21,Dallas,Regular
+C0278,Lisa Taylor,lisa.taylor278@example.com,2021-07-15,Phoenix,Occasional
+C0279,Lisa Wilson,lisa.wilson279@example.com,2021-09-16,Los Angeles,New
+C0280,Christopher Moore,christopher.moore280@example.com,2021-12-02,Houston,Premium
+C0281,Mark Davis,mark.davis281@example.com,2021-08-20,San Antonio,New
+C0282,Richard Wilson,richard.wilson282@example.com,2021-08-21,Los Angeles,Occasional
+C0283,David Rodriguez,david.rodriguez283@example.com,2021-08-07,Philadelphia,Occasional
+C0284,Ashley Thomas,ashley.thomas284@example.com,2021-12-18,Los Angeles,Regular
+C0285,John Wilson,john.wilson285@example.com,2021-02-13,Los Angeles,Premium
+C0286,Karen Johnson,karen.johnson286@example.com,2021-03-08,San Jose,Occasional
+C0287,Patricia Wilson,patricia.wilson287@example.com,2021-12-10,Philadelphia,Occasional
+C0288,Barbara Martin,barbara.martin288@example.com,2021-01-27,Phoenix,New
+C0289,Charles Taylor,charles.taylor289@example.com,2021-02-23,Houston,Occasional
+C0290,Sarah Davis,sarah.davis290@example.com,2021-12-03,Los Angeles,Regular
+C0291,Susan Brown,susan.brown291@example.com,2021-10-12,Phoenix,Occasional
+C0292,Sandra Moore,sandra.moore292@example.com,2021-08-08,San Jose,Regular
+C0293,Ashley Rodriguez,ashley.rodriguez293@example.com,2021-11-08,New York,Premium
+C0294,Daniel Martinez,daniel.martinez294@example.com,2021-05-20,Philadelphia,Regular
+C0295,Jennifer Jones,jennifer.jones295@example.com,2021-01-04,San Jose,Occasional
+C0296,Robert Smith,robert.smith296@example.com,2021-02-05,Los Angeles,New
+C0297,Jessica Anderson,jessica.anderson297@example.com,2021-07-12,Philadelphia,Regular
+C0298,Barbara Hernandez,barbara.hernandez298@example.com,2021-07-09,San Jose,Regular
+C0299,Robert Garcia,robert.garcia299@example.com,2021-01-27,San Jose,Premium
+C0300,John Rodriguez,john.rodriguez300@example.com,2021-12-12,San Diego,Premium
